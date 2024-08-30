@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/acer/AppData/Local/Pub/Cache/hosted/pub.dev/bitsdojo_window_windows-0.1.6/windows/include",
+                "C:/src/flutter/bin/cache/artifacts/engine/windows-x64",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/shared",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/um",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/cppwinrt"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
